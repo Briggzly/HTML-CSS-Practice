@@ -1,0 +1,30 @@
+* {
+    background-color: lightgray;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#feet {
+    background-color: black;
+    height: 100px;
+    width: 900px;
+    border: black 1px;
+}
+
+.whitebox {
+    background-color: white;
+    height: 1000px;
+    width: 900px;
+}
+
+nav {
+    background-color: dodgerblue;
+    height: 250px;
+    width: 100%;
+}
